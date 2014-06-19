@@ -6,7 +6,7 @@ Many people take their online privacy very seriously, concerned about who may be
 Research and briefly describe what the TOR network is and how it works. (2 marks)
 
 ```
-answer here
+The TOR network is a software that stops people from analysing your data. It pretty keeps your tracks covered and stop people from seeing what your doing and finding out who you are. Overall it keeps everything confidential. The way TOR works that it passes your data around many servers making it difficult for people to find out what you're doing
 ```
 
 Discuss the risks and benefits of such a network. (6 marks)
@@ -17,5 +17,5 @@ Discuss the risks and benefits of such a network. (6 marks)
 
 
 ```
-answer here
+TOR was made for many people that don't want to be tracked and have everything do kept in private but it is used by many people in the wrong ways. For example, there are many pedophiles using this so that they cant be found out and they can share things with other pedophiles. There are also criminals which want to use this, such as they may want to hack into bank acounts and people won't know who did it. 
 ```
